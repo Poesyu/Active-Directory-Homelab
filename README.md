@@ -51,62 +51,56 @@ Investigated which IP was an internal (VM) IP and which was the orignial interne
 <br />
 
 <p align="center">
-: <br/>
-<img src="Images/image (3).png"/>
+Created a domain: <br/>
+<img src="Images/pasted file.png"/>
 <br />
 <br />
 
 <p align="center">
-: <br/>
+Started to create the Admin Users group: <br/>
 <img src="Images/a.png"/>
 <br />
 <br />
 
 <p align="center">
-: <br/>
-<img src="Images/image (3).png"/>
+Created myself as Admin user, then logged into it: <br/>
+<img src="Images/aa.png"/>
+<br />
+<br />
+
+<p align="center">
+Setup of the Roles and Routing wizard: <br/>
+<img src="Images/aaa.png"/> <img src="Images/aaaa.png"/>
+<br />
+<br />
+
+<p align="center">
+Added the DHCP Scope: <br/>
+<img src="Images/b.png"/>
+<br />
+<br />
+
+<p align="center">
+Used Powershell to automatically create 1000 users: <br/>
+<img src="Images/bb.png"/> <img src="Images/bbb.png"/>
+<br />
+<br />
+
+<p align="center">
+Created a 2nd VM, as a User: <br/>
+<img src="Images/bbbb.png"/>
 <br />
 <br />
 
 <p align="center">
 : <br/>
-<img src="Images/image (3).png"/>
+<img src="Images/image.png"/>
 <br />
 <br />
 
 <p align="center">
 : <br/>
-<img src="Images/image (3).png"/>
-<br />
-<br />
-
-<p align="center">
-: <br/>
-<img src="Images/image (3).png"/>
-<br />
-<br />
-
-<p align="center">
-: <br/>
-<img src="Images/image (3).png"/>
-<br />
-<br />
-
-<p align="center">
-: <br/>
-<img src="Images/image (3).png"/>
-<br />
-<br />
-
-<p align="center">
-: <br/>
-<img src="Images/image (3).png"/>
-<br />
-<br />
-
-<p align="center">
-: <br/>
-<img src="Images/image (3).png"/>
+<img src="Images/image.png"/>
 <br />
 <br />
 
