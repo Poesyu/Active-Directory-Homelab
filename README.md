@@ -1,4 +1,4 @@
-# Active-Directory-Homelab
+up# Active-Directory-Homelab
 Active Directory Homelab
 
 <h2>Description</h2>
@@ -24,10 +24,10 @@ This project involves building a Windows Server 2019 Active Directory lab in Vir
 
 
 
-<h2>Program walk-through:</h2>
+<h2>Setup:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gallery/ad1-XeqZHR5"/>
 <br />
 <br />
