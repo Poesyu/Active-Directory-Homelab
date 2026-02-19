@@ -27,7 +27,86 @@ This project involves building a Windows Server 2019 Active Directory lab in Vir
 <h2>Setup:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/gallery/ad1-XeqZHR5"/>
+using Rustdesk with Tailscale to securely remote into my home server: <br/>
+<img src="Images/image.png"/>
 <br />
 <br />
+
+<p align="center">
+Using Oracle VirtualBox I created a Windows 10 Server VM: <br/>
+<img src="Images/image (1).png"/>
+<br />
+<br />
+
+<p align="center">
+Finished installing some QOL items to remove the delayed mouse, enable auto sizing on windows and renamed the machine: <br/>
+<img src="Images/image (2).png"/>
+<br />
+<br />
+
+<p align="center">
+Investigated which IP was an internal (VM) IP and which was the orignial internet. Then assigned a specific IP to Internal for the VM network: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/a.png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
+<p align="center">
+: <br/>
+<img src="Images/image (3).png"/>
+<br />
+<br />
+
