@@ -93,14 +93,7 @@ Created a 2nd VM, as a User: <br/>
 <br />
 
 <p align="center">
-: <br/>
-<img src="Images/image.png"/>
+The 2nd VM is registered as a User: <br/>
+<img src="Images/c.png"/>
 <br />
 <br />
-
-<p align="center">
-: <br/>
-<img src="Images/image.png"/>
-<br />
-<br />
-
