@@ -28,73 +28,73 @@ This project involves building a Windows Server 2019 Active Directory lab in Vir
 
 <h2>Setup:</h2>
 
-<p align="center">
-using Rustdesk with Tailscale to securely remote into my home server: <br/>
+<p align="Left">
+Used Rustdesk with Tailscale to securely remote into my home server: <br/>
 <img src="Images/image.png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Using Oracle VirtualBox I created a Windows 10 Server VM: <br/>
 <img src="Images/image (1).png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Finished installing some QOL items to remove the delayed mouse, enable auto sizing on windows and renamed the machine: <br/>
 <img src="Images/image (2).png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Investigated which IP was an internal (VM) IP and which was the orignial internet. Then assigned a specific IP to Internal for the VM network: <br/>
 <img src="Images/image (3).png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Created a domain: <br/>
 <img src="Images/pasted file.png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Started to create the Admin Users group: <br/>
 <img src="Images/a.png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Created myself as Admin user, then logged into it: <br/>
 <img src="Images/aa.png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Setup of the Roles and Routing wizard: <br/>
 <img src="Images/aaa.png"/> <img src="Images/aaaa.png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Added the DHCP Scope: <br/>
 <img src="Images/b.png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Used Powershell to automatically create 1000 users: <br/>
 <img src="Images/bb.png"/> <img src="Images/bbb.png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 Created a 2nd VM, as a User: <br/>
 <img src="Images/bbbb.png"/>
 <br />
 <br />
 
-<p align="center">
+<p align="Left">
 The 2nd VM is registered as a User: <br/>
 <img src="Images/c.png"/>
 <br />
